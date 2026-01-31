@@ -4,8 +4,8 @@
 class Neofetch < Formula
   desc "Fast, highly customizable system info script"
   homepage "https://github.com/Suparious/neofetch"
-  url "https://github.com/Suparious/neofetch/archive/refs/tags/7.1.1.tar.gz"
-  sha256 "62b4a7ad69ee31d8b1a1b64b23ea34ab2c8d3c6c560ac7bd35422a463af68169"
+  url "https://github.com/Suparious/neofetch/archive/refs/tags/7.2.1.tar.gz"
+  sha256 "0607249a8e24778117ba2591aaa3d3e09fac5de2e3e9a367f56c4b843e07c662"
   license "MIT"
   head "https://github.com/Suparious/neofetch.git", branch: "master"
 
